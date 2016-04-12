@@ -34,3 +34,7 @@ syntax on
 
 nnoremap n nzz
 nnoremap N Nzz
+
+let g:netrw_liststyle=3
+let g:netrw_fastbrowse=2
+let g:netrw_keepdir=0
