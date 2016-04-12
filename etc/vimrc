@@ -1,0 +1,36 @@
+set smartindent
+set autoindent
+set expandtab
+set softtabstop=4
+set shiftwidth=4
+set foldmethod=indent
+set foldnestmax=12
+set nofoldenable
+set foldlevel=1
+set backspace=indent,eol,start
+set number
+set ruler
+set cursorline
+set cursorcolumn
+set dir="~/.vim/swp"
+set mouse=a
+set cmdheight=2
+set lazyredraw
+set showcmd
+set showmatch
+set ttyfast
+set ignorecase
+set smartcase
+set laststatus=2
+set background=dark
+set autochdir
+set report=0
+set spell
+set undofile
+set undodir="~/.vim/undo"
+set tags=tags;
+
+syntax on
+
+nnoremap n nzz
+nnoremap N Nzz
